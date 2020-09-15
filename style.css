@@ -1,0 +1,12 @@
+div {
+  margin: 0 20%;
+}
+span {
+  background-color: yellow;
+}
+img {
+  max-width: 30%;
+}
+a {
+  font-weight: bold;
+}
